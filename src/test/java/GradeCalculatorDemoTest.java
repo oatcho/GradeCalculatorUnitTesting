@@ -12,13 +12,25 @@ public class GradeCalculatorDemoTest {
     @Before
     public void create(){
         newDemo = new GradeCalculatorDemo();
-        newDemo.enterGradePercentage();
+        newDemo.enterPercentageGradesIntoArray(45, 70, 100, 85, 90);
     }
 
     @Test
     public void shouldReturnCorrespondingLetterGradeFromPercentage(){
-        String result = newDemo.returnLetterGradeFromPercentage();
+        String result = newDemo.returnLetterGradeFromPercentage(56);
         assertThat(result, equalTo("F"));
+    }
+
+    @Test
+    public void shouldReturnAverageOfCollectionOfPercentages(){
+        double result = newDemo.returnAveragePercentageFromCollectionOfPercentages();
+        assertThat(result, equalTo(78.0));
+    }
+
+    @Test
+    public void shouldReturnCorrespondingNumberGradeFromLetterGrade(){
+        double result = newDemo.returnCorrespondingNumberGradeFromLetterGrade("A");
+        assertThat(result, equalTo(4.0));
     }
 
 

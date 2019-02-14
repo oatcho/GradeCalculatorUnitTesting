@@ -16,9 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/AnnaSophia.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/Danceable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/MarcCuban.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GradeCalculatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GradeCalculatorDemoTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NumberSorter/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NumberSorter/src/main/java/NumberSorterDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UnitTestingGarbageProgram/.idea/encodings.xml" afterDir="false" />
@@ -42,6 +39,9 @@
       <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GradeCalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GradeCalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GradeCalculatorDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GradeCalculatorDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" afterDir="false" />
@@ -92,11 +92,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/GradeCalculatorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="538">
+              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
               <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GradeCalculatorDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="272">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,7 +123,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550176107999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550179073915" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -198,7 +197,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.GradeCalculatorDemoTest">
+    <configuration name="GradeCalculatorDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.detroitlabs.GradeCalculator.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradeCalculatorDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.detroitlabs.GradeCalculator.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradeCalculatorDemoTest" />
+      <option name="METHOD_NAME" value="shouldReturnAverageOfCollectionOfPercentages" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GradeCalculatorDemoTest.shouldReturnCorrespondingLetterGradeFromPercentage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.detroitlabs.GradeCalculator.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -211,6 +229,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradeCalculatorDemoTest" />
+        <item itemvalue="JUnit.GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" />
         <item itemvalue="JUnit.GradeCalculatorDemoTest.shouldReturnCorrespondingLetterGradeFromPercentage" />
       </list>
     </recent_temporary>
@@ -225,12 +245,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550174093800</updated>
-      <workItem from="1550174095156" duration="1779000" />
+      <workItem from="1550174095156" duration="4831000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnCorrespondingLetterGradeFromPercentage - 2019.02.14 at 15h 27m 06s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnCorrespondingLetterGradeFromPercentage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnCorrespondingLetterGradeFromPercentage - 2019.02.14 at 15h 27m 19s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnCorrespondingLetterGradeFromPercentage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnCorrespondingLetterGradeFromPercentage - 2019.02.14 at 15h 28m 30s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnCorrespondingLetterGradeFromPercentage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnAverageOfCollectionOfPercentages - 2019.02.14 at 15h 43m 51s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnAverageOfCollectionOfPercentages - 2019.02.14 at 15h 47m 52s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnAverageOfCollectionOfPercentages - 2019.02.14 at 15h 55m 53s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeCalculatorDemoTest_shouldReturnAverageOfCollectionOfPercentages - 2019.02.14 at 15h 56m 03s.xml">
+      <configuration name="GradeCalculatorDemoTest.shouldReturnAverageOfCollectionOfPercentages" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1779000" />
+    <option name="totallyTimeSpent" value="4831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -241,17 +284,18 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.28356165" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Build" weight="0.28356165" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,19 +318,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/GradeCalculatorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="538">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GradeCalculatorDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
